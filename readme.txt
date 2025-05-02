@@ -1,9 +1,9 @@
-RAILWAY RESERVATION SYSTEM IN C
+Train Booking_APP IN C
 --------------------------------
 
 Description:
 -------------
-This project is a console-based Railway Reservation System developed in C. 
+This project is a console-based Train Booking APP developed in C. 
 It allows users to sign up, sign in, book tickets, cancel tickets, and view booking or train details. 
 Admins can manage train information.
 
